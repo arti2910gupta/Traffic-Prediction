@@ -1,1 +1,1 @@
-# Traffic-Prediction
+# ISTGCN (traffic prediction)
